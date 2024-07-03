@@ -1,5 +1,5 @@
 <h1>Hi, I'm Samhita! </h1>
-<p>I have a deep passion for using mathematics to understand data, uncover patterns, and generate actionable insights. My interests lie in data science, analysis, and machine learning, and I am committed to using these skills to drive strategic opportunities and data-driven decision-making!</p>
+<p > My interests lie in data science, analysis, and machine learning. My passion for mathematics has led me to try and understand and uncover patterns and trends in various contexts, as mathematics fundamentally studies patterns. I am committed to using these skills to drive strategic opportunities and data-driven decision-making! </p>
 
   <h2>My Projects:</h2>
 
